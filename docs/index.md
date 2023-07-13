@@ -1,30 +1,23 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: Resume
+title: Steven Davis
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Steven Davis
+
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="dav17071@byui.edu">dav17071@byui.edu</a>
+| <a href="https://www.linkedin.com/in/steven-ea-davis/">LinkedIn</a>
+| <a href="https://github.com/StevenEAdavis">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2018-2024`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
 
 
 ## Related Experience
