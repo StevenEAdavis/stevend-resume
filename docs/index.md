@@ -1,7 +1,4 @@
----
-layout: Resume
-title: Steven Davis
----
+
 # Steven Davis
 
 
